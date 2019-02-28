@@ -1,10 +1,14 @@
+### 1.0.4
+
+* minor js fix 
+
 ### 1.0.3
 
-update jQuery .
+* update jQuery .
 
 ### 1.0.2
 
-fix options
+* fix options
 
 ### 1.0.1
 
